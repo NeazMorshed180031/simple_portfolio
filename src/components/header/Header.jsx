@@ -13,22 +13,4 @@ const Header = () => {
         <h5 > Full-stack Developer</h5>
         <CTA />
         <HeaderSocials />
-        <div className="cartoon">
-          <div className="bubble b r hb">
-            Hello World!
-            <br />
-            Welcome to my Portfolio..
-          </div>
-        </div>
 
-        <Avatar />
-
-        <a href="#contact" className="scroll_down">
-          Scroll Down
-        </a>
-      </div>
-    </header>
-  );
-};
-
-export default Header;
